@@ -1,4 +1,5 @@
 @echo off
+REM written by Manuel Pollhammer
 setlocal
 
 REM Pfad zur Logdatei
