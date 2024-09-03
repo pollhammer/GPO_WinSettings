@@ -1,2 +1,2 @@
 # Batch-Scripts
-Batch-Scripts
+Das Batch-Skript erstellt eine Logdatei, um Aktionen zu protokollieren und führt anschließend ein PowerShell-Skript (my-windows-settings.ps1) mit Administratorrechten aus. Wenn die Logdatei bereits existiert, wird das Skript nicht erneut ausgeführt, um doppelte Aktionen zu vermeiden. Das Skript ist nützlich für automatisierte Aufgaben, bei denen eine Nachverfolgung wichtig ist und bestimmte Konfigurationen oder Einstellungen über PowerShell vorgenommen werden müssen.
